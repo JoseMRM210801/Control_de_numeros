@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Control_de_numeros</string>
+    <string name="txt_pregunta">¿Como te consideras?</string>
+    <string name="txt_respuesta">Respuesta</string>
+    <string name="btn_enviar">Responder</string>
+    <string name="spinner_1">Opciones</string>
+    <string-array name="opciones">
+        <item>Go</item>
+        <item>JavaScript</item>
+        <item>Kotlin</item>
+        <item>C</item>
+    </string-array>
+
+
+</resources>
